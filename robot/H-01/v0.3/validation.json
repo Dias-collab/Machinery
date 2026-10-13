@@ -1,0 +1,20 @@
+{
+  "revision": "0.3",
+  "active_coordinates": 30,
+  "revolute_body": 28,
+  "equivalent_gripper_sliders": 2,
+  "fixed_joints": 4,
+  "links": 35,
+  "tree": "PASS_connected_single_parent",
+  "axes": "PASS_unit_vectors",
+  "limits": "PASS_order_only_not_mechanical_verification",
+  "zero_sole_height_ground_mm": 0,
+  "base_height_zero_mm": 875.0,
+  "work_pose_base_height_mm": 862.9981248796444,
+  "work_pose_sole_x_relative_base_mm": 1.7364817766693033,
+  "T01": "sole_geometry_checked_no_collision_geometry",
+  "T02": "sagittal_analytical_check_only_no_load_or_collision_check",
+  "T03_T08": "NOT_VERIFIED_missing_targets_trajectories_mass_collision_geometry",
+  "CAD_ready": "NO_offsets_and_envelopes_unverified",
+  "URDF": "geometry_only_effort_1_velocity_0.1_placeholder_NOT_control_or_dynamics"
+}
